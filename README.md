@@ -1,4 +1,5 @@
-= Asciidoc-bootstrap
+Asciidoc-bootstrap
+==================
 
 I use this backend to generate the index of my notes pages.
 
